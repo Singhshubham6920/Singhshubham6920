@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Singhshubham6920
-- 👀 I’m interested in python code🌼
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Frontend Development🌼
+- 🌱 I’m currently learning next.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me demirabhardwaj@gmail.com
+- 📫 How to reach me shubhamkumari571@gmail.com
 
 
 <!---
